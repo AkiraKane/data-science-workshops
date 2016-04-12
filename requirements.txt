@@ -1,5 +1,4 @@
 lxml==3.5.0
 seaborn==0.7.0
 requests==2.9.1
-pysqlite==2.6.3
 cssselect==0.9.1
